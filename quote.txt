@@ -1,0 +1,33 @@
+CREATE TABLE `quotes` (
+  `sr.no` int NOT NULL AUTO_INCREMENT,
+  `quote_type` varchar(45) DEFAULT NULL,
+  `quote` varchar(1000) DEFAULT NULL,
+  PRIMARY KEY (`sr.no`)
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+
+
+
+
+sr.no	quote_type	quote
+1	amazing	       When you have confidence, you can have a lot of fun. And when you have fun, you can do amazing things.
+2	amazing	       Don't strive to be like someone else because you are already amazing.
+3	changes	       If you change the way you look at things, the things you look at change. 
+4	changes	       You must be the change you wish to see in the world. 
+5	dreams	        Dream as if you'll live forever. Live as if you'll die today.
+6	knowledge	Without knowledge action is useless and knowledge without action is futile. 
+7	leadership	A leader is one who knows the way, goes the way, and shows the way.
+8	success 	Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+9	changes 	Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.
+10	friendship	There is nothing on this earth more to be prized than true friendship.
+11	positive	Once you replace negative thoughts with positive ones, you'll start having positive results.
+12	amazing 	It is amazing what you can accomplish if you do not care who gets the credit.
+13	dreams	        The future belongs to those who believe in the beauty of their dreams.
+14	dreams	        You have to dream before your dreams can come true.
+15	knowledge	Ignorance is the curse of God; knowledge is the wing wherewith we fly to heaven
+16	leaderhsip	Leadership is unlocking people's potential to become better
+17	positive	In order to carry a positive action we must develop here a positive vision
+18	success	        Coming together is a beginning; keeping together is progress; working together is success
+19	positive	Adopting the right attitude can convert a negative stress into a positive one.
+20	success	        Coming together is a beginning; keeping together is progress; working together is success.
+21	dreams	        abc
